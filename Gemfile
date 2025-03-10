@@ -37,7 +37,7 @@ gem "kamal", "2.5.3", require: false
 # Add HTTP asset caching/compression and X-Sendfile acceleration to Puma [https://github.com/basecamp/thruster/]
 gem "thruster", "0.1.11", require: false
 
-gem "redcarpet", "3.6.0" # Process markdown to html
+gem "redcarpet", "3.6.1" # Process markdown to html
 gem "rouge", "4.5.1" # Highlight code
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
