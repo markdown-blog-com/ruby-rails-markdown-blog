@@ -44,7 +44,7 @@ gem "rouge", "4.5.1" # Highlight code
 # gem "image_processing", "~> 1.2"
 
 group :development, :test do
-  gem "annotaterb", "4.13.0"
+  gem "annotaterb", "4.14.0"
 
   gem "rspec-rails", "~> 7.0.2"
 
